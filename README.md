@@ -1,6 +1,6 @@
 # password-strength-analysis
 The project helps to analyse passwords by giving a report on where it lacks based on various scores and shows the hashed password with two types of hashing: SHA-256 and BCRYPT.
-The scores used are - Uniqueness score(measures reccurance of characters in password), Complexity score(measures whether the conditions like length, uppercase, numbers, special characters etc are met), Pattern score(checks if common patterns like "abc", "123" etc are present).
+The scores used are - Uniqueness score (measures recurrence of characters in password), Complexity score (measures whether the conditions like length, uppercase, numbers, special characters etc. are met), Pattern score (checks if common patterns like "abc", "123" etc. are present).
 <br>User Interface: 
 <br>Test Case 1:
 
